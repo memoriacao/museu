@@ -1,0 +1,257 @@
+{
+  "tijolo-ecologico": {
+    "properties": {
+      "initial_zoom": "0.6",
+      "initial_position": "0 0 0",
+      "initial_rotation": "0 0 0",
+      "initial_scale": "0.7 0.7 0.7"
+    },
+    "pt_BR_name": "Tijolo Ecológico",
+    "en_US_name": "Eco-friendly Brick",
+    "es_ES_name": "Ladrillo ecológico",
+    "pt_BR_description": "Tijolo ecológico feito de resíduos de construção civil e cerâmica, ideal para construções sustentáveis e habitação popular.",
+    "en_US_description": "Brick made from construction and ceramic waste, designed for sustainable building and affordable housing.",
+    "es_ES_description": "Ladrillo fabricado con residuos de construcción y cerámica, pensado para la edificación sostenible y la vivienda popular.",
+    "pt_BR_fonte": "IFSertãoPE - Campus Salgueiro",
+    "en_US_fonte": "IFSertãoPE - Salgueiro Campus",
+    "es_ES_fonte": "IFSertãoPE - Campus Salgueiro",
+    "pt_BR_locationRoom": "Sala de Pesquisa",
+    "en_US_locationRoom": "Research Room",
+    "es_ES_locationRoom": "Sala de Investigación",
+    "modelUrl": "assets/models/research_room/tijolo.glb",
+    "category": "sustainability",
+    "tags": ["construção", "reciclagem", "sustentabilidade"]
+  },
+  "raspberry-pi": {
+    "properties": {
+      "initial_zoom": "0.6",
+      "initial_position": "0 0 0",
+      "initial_rotation": "0 0 0",
+      "initial_scale": "1 1 1"
+    },
+    "pt_BR_name": "Raspberry Pi",
+    "en_US_name": "Raspberry Pi",
+    "es_ES_name": "Raspberry Pi",
+    "pt_BR_description": "Plataforma de prototipagem eletrônica utilizada no projeto Deméter para o monitoramento e gerenciamento inteligente de água no semiárido.",
+    "en_US_description": "An electronic prototyping platform used in the Deméter project to monitor and intelligently manage water in the semiarid region.",
+    "es_ES_description": "Plataforma de prototipado electrónico utilizada en el proyecto Deméter para supervisar y gestionar de forma inteligente el agua en la región semiárida.",
+    "pt_BR_fonte": "IFSertãoPE - Campus Salgueiro",
+    "en_US_fonte": "IFSertãoPE - Salgueiro Campus",
+    "es_ES_fonte": "IFSertãoPE - Campus Salgueiro",
+    "pt_BR_locationRoom": "Sala de Pesquisa",
+    "en_US_locationRoom": "Research Room",
+    "es_ES_locationRoom": "Sala de Investigación",
+    "modelUrl": "assets/models/research_room/raspberry_pi.glb",
+    "category": "technology",
+    "tags": ["eletrônica", "tecnologia", "prototipagem"]
+  },
+  "barra-de-sabao": {
+    "properties": {
+      "initial_zoom": "0.7",
+      "initial_position": "0 0 0",
+      "initial_rotation": "0 0 0",
+      "initial_scale": "1 1 1"
+    },
+    "pt_BR_name": "Barra de Sabão",
+    "en_US_name": "Bar of Soap",
+    "es_ES_name": "Barra de jabón",
+    "pt_BR_description": "Sabão ecológico produzido a partir do óleo de cozinha reciclado, promovendo a sustentabilidade e a doação comunitária.",
+    "en_US_description": "Eco-friendly soap made from recycled cooking oil, promoting sustainability and community donations.",
+    "es_ES_description": "Jabón ecológico elaborado con aceite de cocina reciclado, que promueve la sostenibilidad y las donaciones comunitarias.",
+    "pt_BR_fonte": "IFSertãoPE - Campus Salgueiro",
+    "en_US_fonte": "IFSertãoPE - Salgueiro Campus",
+    "es_ES_fonte": "IFSertãoPE - Campus Salgueiro",
+    "pt_BR_locationRoom": "Sala de Pesquisa",
+    "en_US_locationRoom": "Research Room",
+    "es_ES_locationRoom": "Sala de Investigación",
+    "modelUrl": "assets/models/research_room/bar_of_soap.glb",
+    "category": "sustainability",
+    "tags": ["reciclagem", "óleo", "sustentabilidade"]
+  },
+  "carrinho-quimico": {
+    "properties": {
+      "initial_zoom": "0.7",
+      "initial_position": "0 0 0",
+      "initial_rotation": "0 0 0",
+      "initial_scale": "1 1 1"
+    },
+    "pt_BR_name": "Carrinho Químico",
+    "en_US_name": "Chemistry Cart",
+    "es_ES_name": "Carrito de química",
+    "pt_BR_description": "Miniatura de carrinho utilizado em experimentos práticos para demonstrar princípios científicos no ensino de Química.",
+    "en_US_description": "A miniature cart used in hands-on experiments to demonstrate scientific principles in chemistry education.",
+    "es_ES_description": "Miniatura de carrito utilizada en experimentos prácticos para demostrar principios científicos en la enseñanza de la química.",
+    "pt_BR_fonte": "IFSertãoPE - Campus Salgueiro",
+    "en_US_fonte": "IFSertãoPE - Salgueiro Campus",
+    "es_ES_fonte": "IFSertãoPE - Campus Salgueiro",
+    "pt_BR_locationRoom": "Sala de Pesquisa",
+    "en_US_locationRoom": "Research Room",
+    "es_ES_locationRoom": "Sala de Investigación",
+    "modelUrl": "assets/models/research_room/quimic_car.glb",
+    "category": "chemistry",
+    "tags": ["química", "experimento", "ciência"]
+  },
+  "carrinho-foguete": {
+    "properties": {
+      "initial_zoom": "0.7",
+      "initial_position": "0 0 0",
+      "initial_rotation": "0 0 0",
+      "initial_scale": "1 1 1"
+    },
+    "pt_BR_name": "Carrinho Foguete",
+    "en_US_name": "Rocket Car",
+    "es_ES_name": "Coche cohete",
+    "pt_BR_description": "Miniatura de carrinho foguete utilizada em experimentos práticos para demonstrar princípios físicos e inovação tecnológica.",
+    "en_US_description": "A miniature rocket-powered car used in hands-on experiments to demonstrate physical principles and technological innovation.",
+    "es_ES_description": "Miniatura de coche cohete utilizada en experimentos prácticos para demostrar principios físicos e innovación tecnológica.",
+    "pt_BR_fonte": "IFSertãoPE - Campus Salgueiro",
+    "en_US_fonte": "IFSertãoPE - Salgueiro Campus",
+    "es_ES_fonte": "IFSertãoPE - Campus Salgueiro",
+    "pt_BR_locationRoom": "Sala de Pesquisa",
+    "en_US_locationRoom": "Research Room",
+    "es_ES_locationRoom": "Sala de Investigación",
+    "modelUrl": "assets/models/research_room/rocket_car.glb",
+    "category": "technology",
+    "tags": ["física", "inovação", "tecnologia"]
+  },
+  "foto-orlando-vidal": {
+    "properties": {
+      "initial_zoom": "0.7",
+      "initial_position": "0 0 0",
+      "initial_rotation": "0 0 0",
+      "initial_scale": "1 1 1"
+    },
+    "pt_BR_name": "Foto Orlando Vidal",
+    "en_US_name": "Photo of Orlando Vidal",
+    "es_ES_name": "Foto de Orlando Vidal",
+    "pt_BR_description": "Registro de Cícero Orlando Vidal, primeiro estudante surdo a se formar no ensino superior do campus Salgueiro e criador do glossário em Libras.",
+    "en_US_description": "A portrait of Cícero Orlando Vidal, the first deaf student to graduate from higher education at the Salgueiro campus and creator of the Libras glossary.",
+    "es_ES_description": "Retrato de Cícero Orlando Vidal, primer estudiante sordo en graduarse de la educación superior en el campus de Salgueiro y creador del glosario de Libras.",
+    "pt_BR_fonte": "IFSertãoPE - Campus Salgueiro",
+    "en_US_fonte": "IFSertãoPE - Salgueiro Campus",
+    "es_ES_fonte": "IFSertãoPE - Campus Salgueiro",
+    "pt_BR_locationRoom": "Sala de Ensino",
+    "en_US_locationRoom": "Teaching Room",
+    "es_ES_locationRoom": "Sala de Enseñanza"
+  },
+  "foto-onibus": {
+    "properties": {
+      "initial_zoom": "0.7",
+      "initial_position": "0 0 0",
+      "initial_rotation": "0 0 0",
+      "initial_scale": "1 1 1"
+    },
+    "pt_BR_name": "Foto Ônibus",
+    "en_US_name": "Bus Photo",
+    "es_ES_name": "Foto del autobús",
+    "pt_BR_description": "Fotografia do ônibus institucional de 2012, símbolo do apoio à permanência, mobilidade e transporte dos estudantes do campus.",
+    "en_US_description": "A photograph of the 2012 institutional bus, a symbol of the campus support for student retention, mobility, and transportation.",
+    "es_ES_description": "Fotografía del autobús institucional de 2012, símbolo del apoyo del campus a la permanencia, movilidad y transporte de estudiantes.",
+    "pt_BR_fonte": "IFSertãoPE - Campus Salgueiro",
+    "en_US_fonte": "IFSertãoPE - Salgueiro Campus",
+    "es_ES_fonte": "IFSertãoPE - Campus Salgueiro",
+    "pt_BR_locationRoom": "",
+    "en_US_locationRoom": "",
+    "es_ES_locationRoom": ""
+  },
+  "caderno-escolar": {
+    "properties": {
+      "initial_zoom": "0.7",
+      "initial_position": "0 0 0",
+      "initial_rotation": "0 0 0",
+      "initial_scale": "1 1 1"
+    },
+    "pt_BR_name": "Caderno Escolar",
+    "en_US_name": "School Notebook",
+    "es_ES_name": "Cuaderno escolar",
+    "pt_BR_description": "Miniatura de caderno escolar representando o material didático utilizado pelos estudantes do campus em suas atividades acadêmicas.",
+    "en_US_description": "A miniature school notebook representing the learning materials used by campus students in their academic activities.",
+    "es_ES_description": "Miniatura de cuaderno escolar que representa el material didáctico utilizado por el alumnado del campus en sus actividades académicas.",
+    "pt_BR_fonte": "IFSertãoPE - Campus Salgueiro",
+    "en_US_fonte": "IFSertãoPE - Salgueiro Campus",
+    "es_ES_fonte": "IFSertãoPE - Campus Salgueiro",
+    "pt_BR_locationRoom": "Sala de Ensino",
+    "en_US_locationRoom": "Teaching Room",
+    "es_ES_locationRoom": "Sala de Enseñanza"
+  },
+  "maquete-edificacoes": {
+    "properties": {
+      "initial_zoom": "0.7",
+      "initial_position": "0 0 0",
+      "initial_rotation": "0 0 0",
+      "initial_scale": "1 1 1"
+    },
+    "pt_BR_name": "Maquete de Edificações",
+    "en_US_name": "Building Model",
+    "es_ES_name": "Maqueta de edificaciones",
+    "pt_BR_description": "Miniatura de edificação representando projetos arquitetônicos, urbanísticos e de construção civil desenvolvidos no campus.",
+    "en_US_description": "A miniature building representing architectural, urban planning, and civil engineering projects developed on campus.",
+    "es_ES_description": "Maqueta de edificio que representa proyectos de arquitectura, urbanismo y construcción civil desarrollados en el campus.",
+    "pt_BR_fonte": "IFSertãoPE - Campus Salgueiro",
+    "en_US_fonte": "IFSertãoPE - Salgueiro Campus",
+    "es_ES_fonte": "IFSertãoPE - Campus Salgueiro",
+    "pt_BR_locationRoom": "Sala de Ensino",
+    "en_US_locationRoom": "Teaching Room",
+    "es_ES_locationRoom": "Sala de Enseñanza"
+  },
+  "modelo-atomo": {
+    "properties": {
+      "initial_zoom": "0.7",
+      "initial_position": "0 0 0",
+      "initial_rotation": "0 0 0",
+      "initial_scale": "1 1 1"
+    },
+    "pt_BR_name": "Modelo Átomo",
+    "en_US_name": "Atom Model",
+    "es_ES_name": "Modelo de átomo",
+    "pt_BR_description": "Representação de modelo atômico utilizada nas aulas e experimentos de Química e Física para estudo da matéria.",
+    "en_US_description": "An atomic model used in chemistry and physics classes and experiments to study matter.",
+    "es_ES_description": "Representación de un modelo atómico utilizado en clases y experimentos de química y física para estudiar la materia.",
+    "pt_BR_fonte": "IFSertãoPE - Campus Salgueiro",
+    "en_US_fonte": "IFSertãoPE - Salgueiro Campus",
+    "es_ES_fonte": "IFSertãoPE - Campus Salgueiro",
+    "pt_BR_locationRoom": "Sala de Ensino",
+    "en_US_locationRoom": "Teaching Room",
+    "es_ES_locationRoom": "Sala de Enseñanza"
+  },
+  "modelo-bequer": {
+    "properties": {
+      "initial_zoom": "0.7",
+      "initial_position": "0 0 0",
+      "initial_rotation": "0 0 0",
+      "initial_scale": "1 1 1"
+    },
+    "pt_BR_name": "Modelo Béquer",
+    "en_US_name": "Beaker Model",
+    "es_ES_name": "Modelo de vaso de precipitados",
+    "pt_BR_description": "Miniatura de béquer representando os equipamentos laboratoriais utilizados nas pesquisas e aulas práticas do campus.",
+    "en_US_description": "A miniature beaker representing the laboratory equipment used in campus research and practical classes.",
+    "es_ES_description": "Miniatura de vaso de precipitados que representa el equipo de laboratorio utilizado en investigaciones y clases prácticas del campus.",
+    "pt_BR_fonte": "IFSertãoPE - Campus Salgueiro",
+    "en_US_fonte": "IFSertãoPE - Salgueiro Campus",
+    "es_ES_fonte": "IFSertãoPE - Campus Salgueiro",
+    "pt_BR_locationRoom": "Sala de Ensino",
+    "en_US_locationRoom": "Teaching Room",
+    "es_ES_locationRoom": "Sala de Enseñanza"
+  },
+  "modelo-notebook": {
+    "properties": {
+      "initial_zoom": "0.7",
+      "initial_position": "0 0 0",
+      "initial_rotation": "0 0 0",
+      "initial_scale": "0.5 0.5 0.5"
+    },
+    "pt_BR_name": "Modelo Notebook",
+    "en_US_name": "Laptop Model",
+    "es_ES_name": "Modelo de portátil",
+    "pt_BR_description": "Miniatura de notebook simbolizando a tecnologia, a inclusão digital e o ensino de informática no campus.",
+    "en_US_description": "A miniature laptop symbolizing technology, digital inclusion, and computer education on campus.",
+    "es_ES_description": "Miniatura de portátil que simboliza la tecnología, la inclusión digital y la enseñanza de informática en el campus.",
+    "pt_BR_fonte": "IFSertãoPE - Campus Salgueiro",
+    "en_US_fonte": "IFSertãoPE - Salgueiro Campus",
+    "es_ES_fonte": "IFSertãoPE - Campus Salgueiro",
+    "pt_BR_locationRoom": "Sala de Ensino",
+    "en_US_locationRoom": "Teaching Room",
+    "es_ES_locationRoom": "Sala de Enseñanza"
+  }
+}
